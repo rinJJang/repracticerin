@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repracticerin/static/css/main.a617e044.chunk.css",
+    "main.js": "/repracticerin/static/js/main.e65fc671.chunk.js",
+    "main.js.map": "/repracticerin/static/js/main.e65fc671.chunk.js.map",
+    "runtime-main.js": "/repracticerin/static/js/runtime-main.faa6d9d4.js",
+    "runtime-main.js.map": "/repracticerin/static/js/runtime-main.faa6d9d4.js.map",
+    "static/js/2.e15cb958.chunk.js": "/repracticerin/static/js/2.e15cb958.chunk.js",
+    "static/js/2.e15cb958.chunk.js.map": "/repracticerin/static/js/2.e15cb958.chunk.js.map",
+    "static/js/3.54de31b7.chunk.js": "/repracticerin/static/js/3.54de31b7.chunk.js",
+    "static/js/3.54de31b7.chunk.js.map": "/repracticerin/static/js/3.54de31b7.chunk.js.map",
+    "index.html": "/repracticerin/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/repracticerin/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e15cb958.chunk.js.LICENSE.txt": "/repracticerin/static/js/2.e15cb958.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/repracticerin/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa6d9d4.js",
+    "static/js/2.e15cb958.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e65fc671.chunk.js"
+  ]
+}
